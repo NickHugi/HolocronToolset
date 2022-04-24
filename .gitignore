@@ -10,3 +10,4 @@ build
 *.exe
 *.spec
 *.zip
+__pycache__
